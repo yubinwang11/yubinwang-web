@@ -32,9 +32,9 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## Education
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+I will obtain bachelor degree in Automation
 
 ## Specialties
 
@@ -53,16 +53,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Education
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
+### Northeastern Univeristy
+#### Bachelor in Automation • Sep 2018 - Jul 2022 • Qinhuangdao, China
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:fishcakewang11@gmail.com)
+## [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
+{{< icon name="weixin" pack="fab" >}}wyb19991124  
 
 ## Credits
 
