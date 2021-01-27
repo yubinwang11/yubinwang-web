@@ -40,17 +40,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Coursework
 #### Cum.GPA 89.4/100
-
 •	99 - Machine Learning
-•	97 - Fundamental of Artificial Intelligence
-•	95 - Circuit Principle
-•	97 - Functions of Complex Variables and Integral Transforms
-•	97 – College Physics (Classical Electromagnetism)
-•	92 - Advanced Mathematics A2
-•	92 - C++ Programming
-•	92 - Linear Algebra
-•	91 - Foundation of Modern Control Theory
-•	97 – Japanese
+97 - Fundamental of Artificial Intelligence
+95 - Circuit Principle
+97 - Functions of Complex Variables and Integral Transforms
+97 – College Physics (Classical Electromagnetism)
+92 - Advanced Mathematics A2
+92 - C++ Programming
+92 - Linear Algebra
+91 - Foundation of Modern Control Theory
+97 – Japanese
 
 
 ## Skills
@@ -60,13 +59,13 @@ Matlab, Python, C++, Julia
 
 #### General
 
-•	Baidu AI Studio (PadlePadle DeepLearning Platform)
-•	Digital/Analog Electronics
-•	LaTex
-•	Basic Japanese
-•	AutoCAD
-•	Optitrack Motion Capture System
-•	Driving License
+Baidu AI Studio (PadlePadle DeepLearning Platform)
+Digital/Analog Electronics
+LaTex
+Basic Japanese
+AutoCAD
+Optitrack Motion Capture System
+Driving License
 
 
 ## Experience
